@@ -4,4 +4,4 @@
 <p align="center">
 <img width="100" src="https://api.visitorbadge.io/api/visitors?path=KurtsWorld69%2FREADME.md&label=passengers&labelColor=%233399ff&countColor=%23ffffff" alt="visitors">
 </p>
-<p align="center">following back mindlessly using this account</p>
+<p align="center">follow 4 follow</p>
