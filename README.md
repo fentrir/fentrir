@@ -2,6 +2,6 @@
 <img width="200" src="https://files.catbox.moe/dlj91s.webp" alt="kurt kunkle from spree">
 </p>
 <p align="center">
-<img width="100" src="https://api.visitorbadge.io/api/visitors?path=KurtsWorld69%2FREADME.md&label=visitors&labelColor=%233399ff&countColor=%23ffffff" alt="visitors">
+<img width="100" src="https://api.visitorbadge.io/api/visitors?path=KurtsWorld69%2FREADME.md&label=passengers&labelColor=%233399ff&countColor=%23ffffff" alt="visitors">
 </p>
-<p align="center">i follow back using this account</p>
+<p align="center">following back mindlessly using this account</p>
